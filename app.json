@@ -1,7 +1,7 @@
 {
   "name": "Jenkins",
   "description": "Deploy Jenkins on Heroku",
-  "repository": "https://github.com/abranhe/jenkins",
+  "repository": "https://github.com/mistakes0fficial/jenkins",
   "logo": "https://cdn.abranhe.com/projects/jenkins/jenkins.png",
   "keywords": [
     "java",
