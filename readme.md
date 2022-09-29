@@ -2,7 +2,7 @@
 
 # Jenkins on Heroku 
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/mistakes0fficial/jenkins/tree/master)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/mistakes0fficial/jenkins/tree/main)
 
 After you deploy your application you will get a login page and it will ask you for a password.
 
